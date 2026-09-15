@@ -8,6 +8,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 |---|---|---|---|---|
 | 0835 | [Image Overlap](./0835-image-overlap/README.md) | [C++](./0835-image-overlap/solution.cpp) | Medium | Array, Matrix |
 | 0836 | [Rectangle Overlap](./0836-rectangle-overlap/README.md) | [C++](./0836-rectangle-overlap/solution.cpp) | Easy | Math, Geometry |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [C++](./2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.cpp) | Hard | String, Dynamic Programming, Greedy, Two Pointers |
 
 ---
 
@@ -17,11 +18,14 @@ Each problem is organized in its own folder using the format `<4-digit-id>-<prob
 
 ```text
 LeetCode-Solutions/
-├── README.md                          # Main repository index
-├── 0835-image-overlap/                # Folder for Problem 835
-│   ├── README.md                      # Problem statement, examples & complexity
-│   └── solution.cpp                   # C++ solution implementation
-└── 0836-rectangle-overlap/            # Folder for Problem 836
-    ├── README.md                      # Problem statement, examples & complexity
-    └── solution.cpp                   # C++ solution implementation
+├── README.md                                                 # Main repository index
+├── 0835-image-overlap/                                       # Folder for Problem 835
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+├── 0836-rectangle-overlap/                                   # Folder for Problem 836
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+└── 2472-maximum-number-of-non-overlapping-palindrome-substrings/ # Folder for Problem 2472
+    ├── README.md                                             # Problem statement, examples & complexity
+    └── solution.cpp                                          # C++ solution implementation
 ```
