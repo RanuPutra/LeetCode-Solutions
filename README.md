@@ -13,6 +13,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./1621-number-of-sets-of-k-non-overlapping-line-segments/README.md) | [C++](./1621-number-of-sets-of-k-non-overlapping-line-segments/solution.cpp) | Medium | Math, Dynamic Programming, Combinatorics |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [C++](./2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.cpp) | Hard | String, Dynamic Programming, Greedy, Two Pointers |
 | 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/README.md) | [C++](./3498-reverse-degree-of-a-string/solution.cpp) | Easy | String, Math, Simulation |
+| 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i/README.md) | [C++](./3524-find-x-value-of-array-i/solution.cpp) | Medium | Array, Dynamic Programming, Math, Subarray |
 
 ---
 
@@ -41,7 +42,10 @@ LeetCode-Solutions/
 ├── 2472-maximum-number-of-non-overlapping-palindrome-substrings/ # Folder for Problem 2472
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
-└── 3498-reverse-degree-of-a-string/                          # Folder for Problem 3498
+├── 3498-reverse-degree-of-a-string/                          # Folder for Problem 3498
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+└── 3524-find-x-value-of-array-i/                             # Folder for Problem 3524
     ├── README.md                                             # Problem statement, examples & complexity
     └── solution.cpp                                          # C++ solution implementation
 ```
