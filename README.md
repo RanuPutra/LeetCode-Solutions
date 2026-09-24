@@ -15,6 +15,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [C++](./2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.cpp) | Hard | String, Dynamic Programming, Greedy, Two Pointers |
 | 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/README.md) | [C++](./3498-reverse-degree-of-a-string/solution.cpp) | Easy | String, Math, Simulation |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i/README.md) | [C++](./3524-find-x-value-of-array-i/solution.cpp) | Medium | Array, Dynamic Programming, Math, Subarray |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/README.md) | [C++](./3550-smallest-index-with-digit-sum-equal-to-index/solution.cpp) | Easy | Array, Math |
 
 ---
 
@@ -49,7 +50,10 @@ LeetCode-Solutions/
 ├── 3498-reverse-degree-of-a-string/                          # Folder for Problem 3498
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
-└── 3524-find-x-value-of-array-i/                             # Folder for Problem 3524
+├── 3524-find-x-value-of-array-i/                             # Folder for Problem 3524
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+└── 3550-smallest-index-with-digit-sum-equal-to-index/        # Folder for Problem 3550
     ├── README.md                                             # Problem statement, examples & complexity
     └── solution.cpp                                          # C++ solution implementation
 ```
