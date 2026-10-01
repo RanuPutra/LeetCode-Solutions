@@ -6,6 +6,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 
 | # | Title | Solution | Difficulty | Topics |
 |---|---|---|---|---|
+| 0020 | [Valid Parentheses](./0020-valid-parentheses/README.md) | [C++](./0020-valid-parentheses/solution.cpp) | Easy | String, Stack |
 | 0835 | [Image Overlap](./0835-image-overlap/README.md) | [C++](./0835-image-overlap/solution.cpp) | Medium | Array, Matrix |
 | 0836 | [Rectangle Overlap](./0836-rectangle-overlap/README.md) | [C++](./0836-rectangle-overlap/solution.cpp) | Easy | Math, Geometry |
 | 1096 | [Brace Expansion II](./1096-brace-expansion-ii/README.md) | [C++](./1096-brace-expansion-ii/solution.cpp) | Hard | String, Backtracking, Stack, Breadth-First Search |
@@ -31,6 +32,9 @@ Each problem is organized in its own folder using the format `<4-digit-id>-<prob
 ```text
 LeetCode-Solutions/
 ├── README.md                                                 # Main repository index
+├── 0020-valid-parentheses/                                   # Folder for Problem 20
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
 ├── 0835-image-overlap/                                       # Folder for Problem 835
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
