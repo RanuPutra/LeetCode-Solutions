@@ -14,6 +14,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 0835 | [Image Overlap](./0835-image-overlap/README.md) | [C++](./0835-image-overlap/solution.cpp) | Medium | Array, Matrix |
 | 0836 | [Rectangle Overlap](./0836-rectangle-overlap/README.md) | [C++](./0836-rectangle-overlap/solution.cpp) | Easy | Math, Geometry |
 | 0921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid/README.md) | [C++](./0921-minimum-add-to-make-parentheses-valid/solution.cpp) | Medium | String, Stack, Greedy |
+| 1021 | [Remove Outermost Parentheses](./1021-remove-outermost-parentheses/README.md) | [C++](./1021-remove-outermost-parentheses/solution.cpp) | Easy | String, Stack |
 | 1096 | [Brace Expansion II](./1096-brace-expansion-ii/README.md) | [C++](./1096-brace-expansion-ii/solution.cpp) | Hard | String, Backtracking, Stack, Breadth-First Search |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md) | [C++](./1190-reverse-substrings-between-each-pair-of-parentheses/solution.cpp) | Medium | String, Stack |
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/README.md) | [C++](./1401-circle-and-rectangle-overlapping/solution.cpp) | Medium | Math, Geometry |
@@ -59,6 +60,9 @@ LeetCode-Solutions/
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 0921-minimum-add-to-make-parentheses-valid/               # Folder for Problem 921
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+├── 1021-remove-outermost-parentheses/                        # Folder for Problem 1021
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 1096-brace-expansion-ii/                                  # Folder for Problem 1096
