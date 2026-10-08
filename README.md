@@ -22,6 +22,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/README.md) | [C++](./1614-maximum-nesting-depth-of-the-parentheses/solution.cpp) | Easy | String, Stack |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./1621-number-of-sets-of-k-non-overlapping-line-segments/README.md) | [C++](./1621-number-of-sets-of-k-non-overlapping-line-segments/solution.cpp) | Medium | Math, Dynamic Programming, Combinatorics |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/README.md) | [C++](./1658-minimum-operations-to-reduce-x-to-zero/solution.cpp) | Medium | Array, Hash Table, Sliding Window, Prefix Sum |
+| 1665 | [Minimum Initial Energy to Finish Tasks](./1665-minimum-initial-energy-to-finish-tasks/README.md) | [C++](./1665-minimum-initial-energy-to-finish-tasks/solution.cpp) | Hard | Array, Greedy, Sorting |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/README.md) | [C++](./1807-evaluate-the-bracket-pairs-of-a-string/solution.cpp) | Medium | Array, Hash Table, String |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | [C++](./2267-check-if-there-is-a-valid-parentheses-string-path/solution.cpp) | Hard | Array, Dynamic Programming, Backtracking, Matrix, Breadth-First Search |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [C++](./2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.cpp) | Hard | String, Dynamic Programming, Greedy, Two Pointers |
@@ -84,6 +85,9 @@ LeetCode-Solutions/
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 1658-minimum-operations-to-reduce-x-to-zero/             # Folder for Problem 1658
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+├── 1665-minimum-initial-energy-to-finish-tasks/              # Folder for Problem 1665
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 1807-evaluate-the-bracket-pairs-of-a-string/              # Folder for Problem 1807
