@@ -26,6 +26,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 1665 | [Minimum Initial Energy to Finish Tasks](./1665-minimum-initial-energy-to-finish-tasks/README.md) | [C++](./1665-minimum-initial-energy-to-finish-tasks/solution.cpp) | Hard | Array, Greedy, Sorting |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string/README.md) | [C++](./1807-evaluate-the-bracket-pairs-of-a-string/solution.cpp) | Medium | Array, Hash Table, String |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | [C++](./2267-check-if-there-is-a-valid-parentheses-string-path/solution.cpp) | Hard | Array, Dynamic Programming, Backtracking, Matrix, Breadth-First Search |
+| 2333 | [Minimum Sum of Squared Difference](./2333-minimum-sum-of-squared-difference/README.md) | [C++](./2333-minimum-sum-of-squared-difference/solution.cpp) | Medium | Array, Math, Greedy, Sorting, Heap (Priority Queue) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [C++](./2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.cpp) | Hard | String, Dynamic Programming, Greedy, Two Pointers |
 | 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/README.md) | [C++](./3498-reverse-degree-of-a-string/solution.cpp) | Easy | String, Math, Simulation |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i/README.md) | [C++](./3524-find-x-value-of-array-i/solution.cpp) | Medium | Array, Dynamic Programming, Math, Subarray |
@@ -98,6 +99,9 @@ LeetCode-Solutions/
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 2267-check-if-there-is-a-valid-parentheses-string-path/   # Folder for Problem 2267
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+├── 2333-minimum-sum-of-squared-difference/                   # Folder for Problem 2333
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 2472-maximum-number-of-non-overlapping-palindrome-substrings/ # Folder for Problem 2472
