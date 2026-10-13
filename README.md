@@ -31,6 +31,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/README.md) | [C++](./3498-reverse-degree-of-a-string/solution.cpp) | Easy | String, Math, Simulation |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i/README.md) | [C++](./3524-find-x-value-of-array-i/solution.cpp) | Medium | Array, Dynamic Programming, Math, Subarray |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/README.md) | [C++](./3550-smallest-index-with-digit-sum-equal-to-index/solution.cpp) | Easy | Array, Math |
+| 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/README.md) | [C++](./3727-maximum-alternating-sum-of-squares/solution.cpp) | Medium | Array, Math, Greedy, Sorting |
 
 ---
 
@@ -113,7 +114,10 @@ LeetCode-Solutions/
 ├── 3524-find-x-value-of-array-i/                             # Folder for Problem 3524
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
-└── 3550-smallest-index-with-digit-sum-equal-to-index/        # Folder for Problem 3550
+├── 3550-smallest-index-with-digit-sum-equal-to-index/        # Folder for Problem 3550
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+└── 3727-maximum-alternating-sum-of-squares/                  # Folder for Problem 3727
     ├── README.md                                             # Problem statement, examples & complexity
     └── solution.cpp                                          # C++ solution implementation
 ```
