@@ -17,6 +17,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 1021 | [Remove Outermost Parentheses](./1021-remove-outermost-parentheses/README.md) | [C++](./1021-remove-outermost-parentheses/solution.cpp) | Easy | String, Stack |
 | 1096 | [Brace Expansion II](./1096-brace-expansion-ii/README.md) | [C++](./1096-brace-expansion-ii/solution.cpp) | Hard | String, Backtracking, Stack, Breadth-First Search |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md) | [C++](./1190-reverse-substrings-between-each-pair-of-parentheses/solution.cpp) | Medium | String, Stack |
+| 1306 | [Jump Game III](./1306-jump-game-iii/README.md) | [C++](./1306-jump-game-iii/solution.cpp) | Medium | Array, Depth-First Search, Breadth-First Search |
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/README.md) | [C++](./1401-circle-and-rectangle-overlapping/solution.cpp) | Medium | Math, Geometry |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./1520-maximum-number-of-non-overlapping-substrings/README.md) | [C++](./1520-maximum-number-of-non-overlapping-substrings/solution.cpp) | Hard | String, Greedy, Two Pointers |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/README.md) | [C++](./1541-minimum-insertions-to-balance-a-parentheses-string/solution.cpp) | Medium | String, Stack, Greedy |
@@ -28,6 +29,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | [C++](./2267-check-if-there-is-a-valid-parentheses-string-path/solution.cpp) | Hard | Array, Dynamic Programming, Backtracking, Matrix, Breadth-First Search |
 | 2333 | [Minimum Sum of Squared Difference](./2333-minimum-sum-of-squared-difference/README.md) | [C++](./2333-minimum-sum-of-squared-difference/solution.cpp) | Medium | Array, Math, Greedy, Sorting, Heap (Priority Queue) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | [C++](./2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.cpp) | Hard | String, Dynamic Programming, Greedy, Two Pointers |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/README.md) | [C++](./2913-subarrays-distinct-element-sum-of-squares-i/solution.cpp) | Easy | Array, Hash Table |
 | 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/README.md) | [C++](./3498-reverse-degree-of-a-string/solution.cpp) | Easy | String, Math, Simulation |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i/README.md) | [C++](./3524-find-x-value-of-array-i/solution.cpp) | Medium | Array, Dynamic Programming, Math, Subarray |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/README.md) | [C++](./3550-smallest-index-with-digit-sum-equal-to-index/solution.cpp) | Easy | Array, Math |
@@ -75,6 +77,9 @@ LeetCode-Solutions/
 ├── 1190-reverse-substrings-between-each-pair-of-parentheses/ # Folder for Problem 1190
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
+├── 1306-jump-game-iii/                                       # Folder for Problem 1306
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
 ├── 1401-circle-and-rectangle-overlapping/                    # Folder for Problem 1401
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
@@ -106,6 +111,9 @@ LeetCode-Solutions/
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 2472-maximum-number-of-non-overlapping-palindrome-substrings/ # Folder for Problem 2472
+│   ├── README.md                                             # Problem statement, examples & complexity
+│   └── solution.cpp                                          # C++ solution implementation
+├── 2913-subarrays-distinct-element-sum-of-squares-i/         # Folder for Problem 2913
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 3498-reverse-degree-of-a-string/                          # Folder for Problem 3498
