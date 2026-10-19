@@ -21,7 +21,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/README.md) | [C++](./1401-circle-and-rectangle-overlapping/solution.cpp) | Medium | Math, Geometry |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./1520-maximum-number-of-non-overlapping-substrings/README.md) | [C++](./1520-maximum-number-of-non-overlapping-substrings/solution.cpp) | Hard | String, Greedy, Two Pointers |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](./1541-minimum-insertions-to-balance-a-parentheses-string/README.md) | [C++](./1541-minimum-insertions-to-balance-a-parentheses-string/solution.cpp) | Medium | String, Stack, Greedy |
-| 1569 | [Number of Ways to Reorder Array to Get Same BST](./1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | [C++](./1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.cpp) | Hard | Array, Math, Divide and Conquer, Dynamic Programming, Tree, Binary Search Tree, Combinatorics, Binary Tree |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](./1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | [C++](./1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.cpp), [JavaScript](./1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.js) | Hard | Array, Math, Divide and Conquer, Dynamic Programming, Tree, Binary Search Tree, Combinatorics, Binary Tree |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/README.md) | [C++](./1614-maximum-nesting-depth-of-the-parentheses/solution.cpp) | Easy | String, Stack |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](./1621-number-of-sets-of-k-non-overlapping-line-segments/README.md) | [C++](./1621-number-of-sets-of-k-non-overlapping-line-segments/solution.cpp) | Medium | Math, Dynamic Programming, Combinatorics |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero/README.md) | [C++](./1658-minimum-operations-to-reduce-x-to-zero/solution.cpp) | Medium | Array, Hash Table, Sliding Window, Prefix Sum |
@@ -93,7 +93,8 @@ LeetCode-Solutions/
 │   └── solution.cpp                                          # C++ solution implementation
 ├── 1569-number-of-ways-to-reorder-array-to-get-same-bst/     # Folder for Problem 1569
 │   ├── README.md                                             # Problem statement, examples & complexity
-│   └── solution.cpp                                          # C++ solution implementation
+│   ├── solution.cpp                                          # C++ solution implementation
+│   └── solution.js                                           # JavaScript solution implementation
 ├── 1614-maximum-nesting-depth-of-the-parentheses/            # Folder for Problem 1614
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
