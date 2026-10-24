@@ -35,7 +35,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 3498 | [Reverse Degree of a String](./3498-reverse-degree-of-a-string/README.md) | [C++](./3498-reverse-degree-of-a-string/solution.cpp) | Easy | String, Math, Simulation |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i/README.md) | [C++](./3524-find-x-value-of-array-i/solution.cpp) | Medium | Array, Dynamic Programming, Math, Subarray |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/README.md) | [C++](./3550-smallest-index-with-digit-sum-equal-to-index/solution.cpp) | Easy | Array, Math |
-| 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/README.md) | [C++](./3644-maximum-k-to-sort-a-permutation/solution.cpp), [C#](./3644-maximum-k-to-sort-a-permutation/solution.cs), [JavaScript](./3644-maximum-k-to-sort-a-permutation/solution.js), [TypeScript](./3644-maximum-k-to-sort-a-permutation/solution.ts) | Medium | Array, Bit Manipulation |
+| 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/README.md) | [C++](./3644-maximum-k-to-sort-a-permutation/solution.cpp), [C#](./3644-maximum-k-to-sort-a-permutation/solution.cs), [JavaScript](./3644-maximum-k-to-sort-a-permutation/solution.js), [TypeScript](./3644-maximum-k-to-sort-a-permutation/solution.ts), [Go](./3644-maximum-k-to-sort-a-permutation/solution.go) | Medium | Array, Bit Manipulation |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/README.md) | [C++](./3727-maximum-alternating-sum-of-squares/solution.cpp) | Medium | Array, Math, Greedy, Sorting |
 | 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/README.md) | [C++](./3886-sum-of-sortable-integers/solution.cpp), [C#](./3886-sum-of-sortable-integers/solution.cs), [C](./3886-sum-of-sortable-integers/solution.c), [JavaScript](./3886-sum-of-sortable-integers/solution.js), [TypeScript](./3886-sum-of-sortable-integers/solution.ts) | Hard | Array, Math, Number Theory |
 
@@ -149,7 +149,8 @@ LeetCode-Solutions/
 │   ├── solution.cpp                                          # C++ solution implementation
 │   ├── solution.cs                                           # C# solution implementation
 │   ├── solution.js                                           # JavaScript solution implementation
-│   └── solution.ts                                           # TypeScript solution implementation
+│   ├── solution.ts                                           # TypeScript solution implementation
+│   └── solution.go                                           # Go solution implementation
 ├── 3727-maximum-alternating-sum-of-squares/                  # Folder for Problem 3727
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
