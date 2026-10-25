@@ -17,7 +17,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 1021 | [Remove Outermost Parentheses](./1021-remove-outermost-parentheses/README.md) | [C++](./1021-remove-outermost-parentheses/solution.cpp) | Easy | String, Stack |
 | 1096 | [Brace Expansion II](./1096-brace-expansion-ii/README.md) | [C++](./1096-brace-expansion-ii/solution.cpp) | Hard | String, Backtracking, Stack, Breadth-First Search |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](./1190-reverse-substrings-between-each-pair-of-parentheses/README.md) | [C++](./1190-reverse-substrings-between-each-pair-of-parentheses/solution.cpp) | Medium | String, Stack |
-| 1254 | [Number of Closed Islands](./1254-number-of-closed-islands/README.md) | [C++](./1254-number-of-closed-islands/solution.cpp), [C](./1254-number-of-closed-islands/solution.c), [C#](./1254-number-of-closed-islands/solution.cs), [JavaScript](./1254-number-of-closed-islands/solution.js) | Medium | Array, Depth-First Search, Breadth-First Search, Matrix, Union Find |
+| 1254 | [Number of Closed Islands](./1254-number-of-closed-islands/README.md) | [C++](./1254-number-of-closed-islands/solution.cpp), [C](./1254-number-of-closed-islands/solution.c), [C#](./1254-number-of-closed-islands/solution.cs), [JavaScript](./1254-number-of-closed-islands/solution.js), [TypeScript](./1254-number-of-closed-islands/solution.ts) | Medium | Array, Depth-First Search, Breadth-First Search, Matrix, Union Find |
 | 1306 | [Jump Game III](./1306-jump-game-iii/README.md) | [C++](./1306-jump-game-iii/solution.cpp) | Medium | Array, Depth-First Search, Breadth-First Search |
 | 1401 | [Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/README.md) | [C++](./1401-circle-and-rectangle-overlapping/solution.cpp) | Medium | Math, Geometry |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](./1520-maximum-number-of-non-overlapping-substrings/README.md) | [C++](./1520-maximum-number-of-non-overlapping-substrings/solution.cpp) | Hard | String, Greedy, Two Pointers |
@@ -87,7 +87,8 @@ LeetCode-Solutions/
 │   ├── solution.cpp                                          # C++ solution implementation
 │   ├── solution.c                                            # C solution implementation
 │   ├── solution.cs                                           # C# solution implementation
-│   └── solution.js                                           # JavaScript solution implementation
+│   ├── solution.js                                           # JavaScript solution implementation
+│   └── solution.ts                                           # TypeScript solution implementation
 ├── 1306-jump-game-iii/                                       # Folder for Problem 1306
 │   ├── README.md                                             # Problem statement, examples & complexity
 │   └── solution.cpp                                          # C++ solution implementation
