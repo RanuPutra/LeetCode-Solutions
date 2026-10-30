@@ -39,7 +39,7 @@ A collection of LeetCode problem solutions written in C++, structured neatly wit
 | 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/README.md) | [C++](./3644-maximum-k-to-sort-a-permutation/solution.cpp), [C#](./3644-maximum-k-to-sort-a-permutation/solution.cs), [JavaScript](./3644-maximum-k-to-sort-a-permutation/solution.js), [TypeScript](./3644-maximum-k-to-sort-a-permutation/solution.ts), [Go](./3644-maximum-k-to-sort-a-permutation/solution.go) | Medium | Array, Bit Manipulation |
 | 3727 | [Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/README.md) | [C++](./3727-maximum-alternating-sum-of-squares/solution.cpp) | Medium | Array, Math, Greedy, Sorting |
 | 3886 | [Sum of Sortable Integers](./3886-sum-of-sortable-integers/README.md) | [C++](./3886-sum-of-sortable-integers/solution.cpp), [C#](./3886-sum-of-sortable-integers/solution.cs), [C](./3886-sum-of-sortable-integers/solution.c), [JavaScript](./3886-sum-of-sortable-integers/solution.js), [TypeScript](./3886-sum-of-sortable-integers/solution.ts) | Hard | Array, Math, Number Theory |
-| 3963 | [Create Grid With Exactly One Path](./3963-create-grid-with-exactly-one-path/README.md) | [TypeScript](./3963-create-grid-with-exactly-one-path/solution.ts), [JavaScript](./3963-create-grid-with-exactly-one-path/solution.js), [PHP](./3963-create-grid-with-exactly-one-path/solution.php), [C++](./3963-create-grid-with-exactly-one-path/solution.cpp), [C](./3963-create-grid-with-exactly-one-path/solution.c), [C#](./3963-create-grid-with-exactly-one-path/solution.cs), [Go](./3963-create-grid-with-exactly-one-path/solution.go) | Easy | Array, Matrix |
+| 3963 | [Create Grid With Exactly One Path](./3963-create-grid-with-exactly-one-path/README.md) | [TypeScript](./3963-create-grid-with-exactly-one-path/solution.ts), [JavaScript](./3963-create-grid-with-exactly-one-path/solution.js), [PHP](./3963-create-grid-with-exactly-one-path/solution.php), [C++](./3963-create-grid-with-exactly-one-path/solution.cpp), [C](./3963-create-grid-with-exactly-one-path/solution.c), [C#](./3963-create-grid-with-exactly-one-path/solution.cs), [Go](./3963-create-grid-with-exactly-one-path/solution.go), [Rust](./3963-create-grid-with-exactly-one-path/solution.rs) | Easy | Array, Matrix |
 
 ---
 
@@ -179,5 +179,6 @@ LeetCode-Solutions/
     ├── solution.cpp                                          # C++ solution implementation
     ├── solution.c                                            # C solution implementation
     ├── solution.cs                                           # C# solution implementation
-    └── solution.go                                           # Go solution implementation
+    ├── solution.go                                           # Go solution implementation
+    └── solution.rs                                           # Rust solution implementation
 ```
